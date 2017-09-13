@@ -5,17 +5,14 @@
 #include <iostream>
 #include <string>
 
-
 using namespace std;
 
 void top(string input);
 void bottom(string input);
 void phrase(string input);
 
-
 int main()
 {
-
 	string input;
 
 	cout << "Enter phrase here: ";
