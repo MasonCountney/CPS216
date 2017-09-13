@@ -1,7 +1,6 @@
 // spikey.cpp 
 // Mason Countney
 
-#include "stdafx.h"
 #include <iostream>
 
 using namespace std;
