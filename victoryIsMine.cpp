@@ -1,7 +1,6 @@
 // victoryIsMine.cpp
 // Mason Countney
 
-#include "stdafx.h"
 #include <iostream>
 #include <string>
 
